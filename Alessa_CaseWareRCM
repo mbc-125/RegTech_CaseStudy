@@ -1,0 +1,139 @@
+# Alessa: Compliance and Fraud Detection Simplified
+
+## Overview and Origin
+
+* Name of company
+**CaseWare RCM** < https://www.caseware.com/alessa/>
+CaseWare RCM is a RegTech company whose flagship is Alessa, a software solution. 
+
+* When was the company incorporated?
+CaseWare RCM was incorporated in Canada in 2006.
+In 2019, CaeWare RCM rebranded its continuous control monitoring program as Alessa.
+Alessa software is used in the United States, Canada, UK, Germany, Australia, Caribbean, Latin America, Asia, Kenya. 
+
+* Who are the founders of the company?
+CaseWare RCM is a division of CaseWare International <https://www.caseware.com>
+Caseware International is a firm that develops software solutions for accounting, auditing, financial, risk and governance professionals. CaseWare software is used in 130 countries and available in 16 languages.
+
+* How did the idea for the company (or project) come about?
+According to Andrew Simpson, COO, the original Continuous Control Monitoring (CCM) focus was on leveraging data analytics to automate internal auditors' role. Compliance departments primarily used the software; therefore, this was the area where CaseWare RCM extended their capabilities to include customer due diligence, transaction monitoring, and regulatory reporting to financial intelligence units.
+
+* How is the company funded? How much funding have they received?
+CaseWare RCM is a division of CaseWare International.
+
+## Business Activities:
+
+* What specific financial problem is the company or project trying to solve?
+Alessa seeks to quickly identify suspicious transactions and high-risk entities in compliance, finance, purchasing, and procurement programs. Early detection of high risks enables organizations to start timely investigations, make informed decisions, automatically create an auditable trail, comply with regulations and protect revenues.
+Alessa tracks activities and transactions across corporate purchases and credit cards to detect anomalies, personal purchases, policy violations and other misuses. Using the sanctions screening module makes possible to conduct on-demand, periodic, or real-time screening to evaluate and remediate risks. Additionally, the regulatory reporting tools enable regulators to auto-populate, validate and electronically submit currency transactions, suspicious activity and suspicious transaction reports.
+
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+The main customers of CaseWare RCM and Alessa's intended users are banks, money service businesses, fintech, insurance, gaming, manufacturing and retail companies.
+
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Alessa offers a comprehensive solution that includes all critical functions to comply with anti-money laundering and counter terrorist financing regulations, such as identity verification, due diligence, sanctions and watch list screening, transaction monitoring, transaction screening, and regulatory reporting capabilities.
+Thanks to its application programming interface (API), Alessa fully integrates with several third-party solutions, as well as it has the ability to integrate data from disparate IT and business systems. In this sense, clients can fully view the data in their organization, use this information, and take a risk-based approach to their AML/CTF program.
+Alessa features include: Compliance tracking, behavioural analytics, compliance reporting, investigation management, transactions monitoring, case management, identity verification, PEP screening, suspicious transactions/activities reports, watchlist, risk management, check fraud detection, customer account profiles, internal fraud monitoring, custom fraud rules, data mining, financial fraud detection for banking and the insurance industry. 
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)
+Alessa's technology partners include CipherTrace, Micorsoft Azure, Refinitive (World-Check) and Thomson Reuters.
+In September 2020, CaseWare RCM announced its partnership with CipherTrace. The partnership was established to "allow financial institutions (FIs)to more effectively track the accounts associated with peer-to-peer crypto exchanges and smaller virtual currency kiosks, and cross-references the contact information of small virtual asset service providers (VASPs) with customer records to flag suspicious activities." 
+In terms of customer identification and due diligence capabilities, Alessa customers enjoy the benefits of third-party data and risk intelligence, provided by Refinitiv World-Check and EDD reports, Thomson Reuters CLEAR ID Confirm™, Dow Jones Risk & Compliance, and cannabis-related data.
+
+Additionally, and according to Crunchbase, CaseWare RCM is actively using 27 technologies for its website. These include Viewport Meta, IPhone / Mobile Compatible, and Apple Mobile Web Clips Icon.
+
+Additionally, in Stackshare it is possible to find information about Caseware, however it does not clarify whether it refers to CaseWare International or CaseWare RCM.
+- PHP
+- NGINX
+- LARAVEL
+
+Source: Stackshare < https://stackshare.io/caseware/caseware> 
+
+## Landscape:
+
+* What domain of the financial industry is the company in?
+Regulatory Technology (RegTech)
+"RegTech includes any use of technology to match structured and unstructured data to information taxonomies or decision rules that are meaningful to both regulators and the firms they regulate, in order to automate compliance or oversight processes."*
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+Major trends in terms of FinTech apply to RegTech. However, it is possible to identify a few of these that have especially impacted the RegTech domain, such as: 
+
+- Cyber Security. Market grown more than 30Xx in 13 years.
+  According to Chris Lamoureux "[a] few key events that made international news, highlight these concerns. The NSA surveillance leaked by Edward Snowden, leaked information of millions of people and slow response by Equifax, and the depth of data points that are tracked by Facebook and used by Cambridge Analytica.”
+- Enhanced Regulation and Compliance Requirements. Anti-Money Laundering and Countering the Financing of Terrorism have been enhanced globally. Recent scandals from major banks and economies have shown that the system is vulnerable and can be abused by criminals. In this sense, it is reasonable to expect even more strict regulations to be implemented.
+  Enhanced requirements may cause an increase in the costs associated with compliance across the traditional financial system, and even for FinTech start-ups. 
+  According to Lamoreux indicates that "[o]ne research report predicts that the global RegTech market will grow from $4.3 billion in 2018 to $12.3 billion by 2023, while another report predicted that the spending on RegTech would reach $76bn by 2022." 
+- Cloud Computing. In the last decade, as a result of an increased understanding of technology, cloud computing is nowadays trsuted and reliable. Cloud-based solutions have proven to be straight-forward, scalable and cost-efficient.
+- Big data and IoT. The amount of data that is being collected has made possible to start working on more sophisticated solutions using artificial intelligence and machine learning. Additionally, connectivity increased considerably thanks to the widespread of the access to internet and the proliferation of smartphones and other gadgets connected to internet.
+- Payment methods and financial inclusion. International organizations and governments have made efforts to increase the financial inclusion and to limited cash as a method of payment. Transactions completed in cash are to trace a allow to obscure the origin of the funds. 
+In particular, with regards to Canada, "the main difference between 2010 and 2020 is the remarkable transition away from paper-based payments to electronic payments. In total, electronic payments transactions accounted for ~80 per cent of the total payments volume and >~60 per cent of the total payments value. Since the early 2010's, electronic payments volume has captured an additional 18 per cent of the total payments market volume, annually. This can be largely attributed to the increased adoption of emerging payment channels, including contactless, e-commerce and P2P payments, that Canadians find great convenience in."
+
+The abovementioned trends show the areas of opportunity for RegTech in the following year: Cybersecurity, data-driven approached and an enhanced focus on prevention. 
+
+* What are the other major companies in this domain?
+Other Canadian RegTech companies are: 
+- Allagma Technologies 
+- Agreement Express
+- Aprivacy
+- Ethidex Inc.
+- Four Eyes Financial
+- KoreConX
+- MindBridge Ai
+- SecureFact
+- TickSmith
+- Trulioo
+- VigilantCS
+
+## Results
+* What has been the business impact of this company so far?
+Recently, Alessa helped a retailer and money service business to comply with the AML/CFT regulation resulting in: 
+
+- Review of 100 percent of their transactions to look for compliance violations
+- Reduced number of alerts by 70 percent and increased accuracy of alerts by 80 percent. This has significantly reduced the time needed to remediate alerts, going from hours to minutes to complete and reduced risk of "missing" a transaction that needed to be reported.
+- Lowered estimated time to work a case by 60 percent by eliminating manual data retrieval for standard requests and improving workflow
+- Automated report filing to regulators has reduced the compliance team's workload reducing program and operational cost.
+- Improved efficiency of the compliance team by 60 percent by reducing manual administrative costs
+
+Other success stories include:
+- Australia-based Metcash saving $1.8 million
+- Coca Cola Amatil automating the analysis of their transactions and provide workflow management to track any anomalies, resulting in a decrease in the overall credit card expenses
+< https://www.caseware.com/alessa/success-stories/coca-cola-amatil/> 
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+- Customer in-boarding time
+- Volume of transactions monitored
+- Identification of alerts
+- Regulatory reporting automatization 
+
+* How is your company performing relative to competitors in the same domain?
+From the perspective of the user, when compared to similar solutions Alessa has room for improvement. 
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+- Risk assessment. While Alessa is an effective solution for complying with regulation, there is room to add a risk assessment feature. Financial institutions must assess their risks, which maybe challenging due to the amount of data required and the required analytical insights. Since Alessa is already analyzing a significant amount of data, it could also consider introducing a comprehensive risk assessment tool. 
+
+* Why do you think that offering this product or service would benefit the company?
+The tendency and need to reduce costs due to the covid19 pandemic will impact different areas. In this way, risk assessment is a way to strengthen the focus on prevention; therefore, the likelihood of paying fines, abuse of the system, and expensive remedial measures.
+
+* What technologies would this additional product or service utilize?
+Stronger data analysis capabilities for the production of relevant insights. 
+
+* Why are these technologies appropriate for your solution?
+Due to the amount of the data to analyse. 
+
+## References
+1. Arner, Douglas W, Barberis, Janos, and Buckkley Ross P., FinTech and RegTech in a Nutshell, and the Future in a Sandbox,  <https://www.cfainstitute.org/-/media/documents/article/rf-brief/rfbr-v3-n4-1.ashx>
+2. Breana Patel, What Does The Future Hold For Regtech?, April 14, 2020, <https://www.forbes.com/sites/forbesfinancecouncil/2020/04/14/what-does-the-future-hold-for-regtech/?sh=3a8493bd1f53>
+3. Capgemini and Efma, World FinTech Report 2020, <https://fintechworldreport.com>
+4. Deloitte, RegTech Universe 2020, July 2, 2020,  <https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html>
+5. Lamoureux, Chris, Trends of the Past Decade, January 15, 2020, <https://www.veriday.com/blog/top-trends-last-decade-2020/>
+6. Sali, David, Crime does pay: CaseWare International locks up anti-fraud market, January 12, 2018, < https://obj.ca/article/crime-does-pay-caseware-international-locks-anti-fraud-market>
+7. Schizas, Emmanuel, et al., The Global RegTech Industry Benchmark Report, <https://regtech.org.au/resources/Documents/2019-ccaf-global-regtech-benchmarking-report.pdf>
+8. REGTECH100 COMPANIES 2021, <https://fintech.global/regtech100/wp-content/uploads/2020/12/RegTech100_Summary_2021.pdf>
+9. The Silicon Review, Alessa by CaseWare RCM - Simplifying the Fight against Money Laundering, Fraud and Other Financial Crimes, <https://thesiliconreview.com/magazine/profile/alessa-by-caseware-rcm-simplifying-the-fight-against-money-laundering-fraud-and-other-financial-crimes>
+10. < https://www.caseware.com/alessa/success-stories/retailer-msb/>
+11. <https://www.caseware.com/alessa/success-stories/>
+12. <https://www.capterra.com>
+13. <https://www.softwareadvice.com/ca/accounting/alessa-profile/>
+14. Press Release "CaseWare RCM and CipherTrace Partner to Add Crypto Intelligence to AML Programs" < https://www.caseware.com/alessa/press-releases/caseware-ciphertrace-add-crypto-intelligence-aml/>
